@@ -33,8 +33,9 @@ Run the script:
 Copy
 Edit
 python3 menu.py
-Follow the on-screen instructions to select and execute the desired operation.
 ```
+Follow the on-screen instructions to select and execute the desired operation.
+
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
